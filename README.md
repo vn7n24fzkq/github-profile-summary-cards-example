@@ -8,7 +8,7 @@ Then you can use everything in profile-summary-card-output folder
 | :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
 | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-| :warning: | Don't forget to modify the image path (The correct path is under the profile-summary-card-output folder). |
+| :warning: | Don't forget to modify the image path (The correct path is in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
 
 [![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
