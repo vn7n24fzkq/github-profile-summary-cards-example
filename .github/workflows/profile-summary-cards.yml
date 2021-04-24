@@ -4,7 +4,7 @@ on:
   create:
   push:
   schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
