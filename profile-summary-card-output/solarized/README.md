@@ -35,6 +35,16 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+```
+
+    
+
+---
+
 ![](./3-stats.svg)
 
 ```
